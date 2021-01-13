@@ -1,6 +1,0 @@
-{'Name': 'ANINDITA DEY', 'Father Name': 'NANIGOPAL DEBNATH', 'Date of Birth': '26/04/1984', 'PAN': 'CNIPD8708H'}
-{'Name': 'PARMAR VIVEK BHARATBHA', 'Father Name': 'BHARATBHAI PARMAR', 'Date of Birth': '31/05/1992', 'PAN': 'CSBPP5946H'}
-{'Name': 'TUSHAR LIHASV', 'Father Name': 'KANAK TAREAN MHASKE', 'Date of Birth': '01/09/1982', 'PAN': 'ANHPM1203F'}
-{'Name': 'SANTOSH SABA KUDTARKAR', 'Father Name': 'S R KUDTARKAR', 'Date of Birth': '28/0511982', 'PAN': 'AOIPK9853K'}
-{'Name': 'ANINDITA DEY', 'Father Name': 'NANIGOPAL DEBNATH', 'Date of Birth': '26/04/1984', 'PAN': 'CNIPD8708H'}
-{'Name': 'BIJLANI AMIT SURESH', 'Father Name': 'SURESH WARIALDAS BIJLANI', 'Date of Birth': '17111/1984', 'PAN': 'AHQPB6341Q'}
