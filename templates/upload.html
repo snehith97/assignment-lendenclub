@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Upload Image</title>
+ </head>
+ <body>
+
+   {% if msg %}
+   <h1>{{ msg }}</h1>
+   {% endif %}
+
+   <h1>Upload new File</h1>
+
+   <form method=post enctype=multipart/form-data>
+     <p><input type=file name=file>
+        <input type=submit value=Upload>
+   </form>
+
+   <h1>Result:</h1>
+   {% if img_src %}
+     <img src="{{ img_src }}">
+   {% endif %}
+
+   {% if extracted_text %}
+     <p> Errors/Warnings: <b> {{ extracted_text }} </b></p>
+   {% endif %}
+   <form>
+       <br><br>
+       <label>Name:</label>
+       <input type="text" name="pname" value="{{ pname }}"><br><br>
+       <label>Father name:</label>
+       <input type="text" name="fname" value="{{ fname }}"><br><br>
+       <label>Date of Birth:</label>
+       <input type="text" name="dob" value="{{ dob }}"><br><br>
+       <label>PAN:</label>
+       <input type="text" name="panid" value="{{ panid }}">
+   </form>
+ </body>
+</html>
